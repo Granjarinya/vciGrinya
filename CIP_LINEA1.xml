@@ -2,7 +2,7 @@
 <Document>
   <Engineering version="V16" />
   <DocumentInfo>
-    <Created>2023-05-12T10:27:49.7839238Z</Created>
+    <Created>2023-05-12T10:38:19.755664Z</Created>
     <ExportSetting>WithDefaults</ExportSetting>
     <InstalledProducts>
       <Product>
@@ -78,7 +78,7 @@
           <MultilingualTextItem ID="2" CompositionName="Items">
             <AttributeList>
               <Culture>es-ES</Culture>
-              <Text>prueba</Text>
+              <Text>prueba paco -> david 2</Text>
             </AttributeList>
           </MultilingualTextItem>
           <MultilingualTextItem ID="3" CompositionName="Items">
