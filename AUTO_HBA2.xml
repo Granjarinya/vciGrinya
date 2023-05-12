@@ -55,7 +55,7 @@
   <Section Name="Output" />
   <Section Name="InOut" />
   <Section Name="Temp">
-    <Member Name="SEGUIR" Datatype="Bool" />
+    <Member Name="SEGUIR_cont" Datatype="Bool" />
     <Member Name="aux_int_1" Datatype="Int" />
     <Member Name="TEMP0" Datatype="Bool" />
   </Section>
