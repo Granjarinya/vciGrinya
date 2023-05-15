@@ -2,7 +2,7 @@
 <Document>
   <Engineering version="V16" />
   <DocumentInfo>
-    <Created>2023-05-12T09:49:58.9235322Z</Created>
+    <Created>2023-05-15T10:42:05.211121Z</Created>
     <ExportSetting>WithDefaults</ExportSetting>
     <InstalledProducts>
       <Product>
@@ -79,8 +79,8 @@
           <MultilingualTextItem ID="2" CompositionName="Items">
             <AttributeList>
               <Culture>es-ES</Culture>
-              <Text>pruebade comit 2 b
-1040</Text>
+              <Text>prueba con paco de comit 2 b
+1040 desde paco</Text>
             </AttributeList>
           </MultilingualTextItem>
           <MultilingualTextItem ID="3" CompositionName="Items">
